@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\C#Projects\Classwork\Classwork\bin\Debug\net7.0\Classwork.exe
+C:\Users\admin\Desktop\C#Projects\Classwork\Classwork\bin\Debug\net7.0\Classwork.deps.json
+C:\Users\admin\Desktop\C#Projects\Classwork\Classwork\bin\Debug\net7.0\Classwork.runtimeconfig.json
+C:\Users\admin\Desktop\C#Projects\Classwork\Classwork\bin\Debug\net7.0\Classwork.dll
+C:\Users\admin\Desktop\C#Projects\Classwork\Classwork\bin\Debug\net7.0\Classwork.pdb
+C:\Users\admin\Desktop\C#Projects\Classwork\Classwork\obj\Debug\net7.0\Classwork.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\C#Projects\Classwork\Classwork\obj\Debug\net7.0\Classwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\C#Projects\Classwork\Classwork\obj\Debug\net7.0\Classwork.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\C#Projects\Classwork\Classwork\obj\Debug\net7.0\Classwork.AssemblyInfo.cs
+C:\Users\admin\Desktop\C#Projects\Classwork\Classwork\obj\Debug\net7.0\Classwork.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C#Projects\Classwork\Classwork\obj\Debug\net7.0\Classwork.dll
+C:\Users\admin\Desktop\C#Projects\Classwork\Classwork\obj\Debug\net7.0\refint\Classwork.dll
+C:\Users\admin\Desktop\C#Projects\Classwork\Classwork\obj\Debug\net7.0\Classwork.pdb
+C:\Users\admin\Desktop\C#Projects\Classwork\Classwork\obj\Debug\net7.0\Classwork.genruntimeconfig.cache
+C:\Users\admin\Desktop\C#Projects\Classwork\Classwork\obj\Debug\net7.0\ref\Classwork.dll
