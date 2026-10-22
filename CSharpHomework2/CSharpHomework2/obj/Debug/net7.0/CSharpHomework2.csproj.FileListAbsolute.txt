@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\C#Projects\CSharpHomework2\CSharpHomework2\bin\Debug\net7.0\CSharpHomework2.exe
+C:\Users\admin\Desktop\C#Projects\CSharpHomework2\CSharpHomework2\bin\Debug\net7.0\CSharpHomework2.deps.json
+C:\Users\admin\Desktop\C#Projects\CSharpHomework2\CSharpHomework2\bin\Debug\net7.0\CSharpHomework2.runtimeconfig.json
+C:\Users\admin\Desktop\C#Projects\CSharpHomework2\CSharpHomework2\bin\Debug\net7.0\CSharpHomework2.dll
+C:\Users\admin\Desktop\C#Projects\CSharpHomework2\CSharpHomework2\bin\Debug\net7.0\CSharpHomework2.pdb
+C:\Users\admin\Desktop\C#Projects\CSharpHomework2\CSharpHomework2\obj\Debug\net7.0\CSharpHomework2.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\C#Projects\CSharpHomework2\CSharpHomework2\obj\Debug\net7.0\CSharpHomework2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\C#Projects\CSharpHomework2\CSharpHomework2\obj\Debug\net7.0\CSharpHomework2.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\C#Projects\CSharpHomework2\CSharpHomework2\obj\Debug\net7.0\CSharpHomework2.AssemblyInfo.cs
+C:\Users\admin\Desktop\C#Projects\CSharpHomework2\CSharpHomework2\obj\Debug\net7.0\CSharpHomework2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C#Projects\CSharpHomework2\CSharpHomework2\obj\Debug\net7.0\CSharpHomework2.dll
+C:\Users\admin\Desktop\C#Projects\CSharpHomework2\CSharpHomework2\obj\Debug\net7.0\refint\CSharpHomework2.dll
+C:\Users\admin\Desktop\C#Projects\CSharpHomework2\CSharpHomework2\obj\Debug\net7.0\CSharpHomework2.pdb
+C:\Users\admin\Desktop\C#Projects\CSharpHomework2\CSharpHomework2\obj\Debug\net7.0\CSharpHomework2.genruntimeconfig.cache
+C:\Users\admin\Desktop\C#Projects\CSharpHomework2\CSharpHomework2\obj\Debug\net7.0\ref\CSharpHomework2.dll
