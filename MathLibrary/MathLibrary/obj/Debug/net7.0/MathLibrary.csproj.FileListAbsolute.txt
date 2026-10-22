@@ -1,0 +1,12 @@
+C:\Users\admin\Desktop\C#Projects\MathLibrary\MathLibrary\bin\Debug\net7.0\MathLibrary.deps.json
+C:\Users\admin\Desktop\C#Projects\MathLibrary\MathLibrary\bin\Debug\net7.0\MathLibrary.dll
+C:\Users\admin\Desktop\C#Projects\MathLibrary\MathLibrary\bin\Debug\net7.0\MathLibrary.pdb
+C:\Users\admin\Desktop\C#Projects\MathLibrary\MathLibrary\obj\Debug\net7.0\MathLibrary.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\C#Projects\MathLibrary\MathLibrary\obj\Debug\net7.0\MathLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\C#Projects\MathLibrary\MathLibrary\obj\Debug\net7.0\MathLibrary.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\C#Projects\MathLibrary\MathLibrary\obj\Debug\net7.0\MathLibrary.AssemblyInfo.cs
+C:\Users\admin\Desktop\C#Projects\MathLibrary\MathLibrary\obj\Debug\net7.0\MathLibrary.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C#Projects\MathLibrary\MathLibrary\obj\Debug\net7.0\MathLibrary.dll
+C:\Users\admin\Desktop\C#Projects\MathLibrary\MathLibrary\obj\Debug\net7.0\refint\MathLibrary.dll
+C:\Users\admin\Desktop\C#Projects\MathLibrary\MathLibrary\obj\Debug\net7.0\MathLibrary.pdb
+C:\Users\admin\Desktop\C#Projects\MathLibrary\MathLibrary\obj\Debug\net7.0\ref\MathLibrary.dll
